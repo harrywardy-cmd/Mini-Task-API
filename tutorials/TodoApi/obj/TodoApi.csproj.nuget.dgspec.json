@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Documents\\program repo\\Mini-Task-API\\tutorials\\TodoApi\\TodoApi.csproj": {}
+    "C:\\Users\\User\\Documents\\program repo\\Mini-Task-API\\tutorials\\todoapi\\TodoApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Documents\\program repo\\Mini-Task-API\\tutorials\\TodoApi\\TodoApi.csproj": {
+    "C:\\Users\\User\\Documents\\program repo\\Mini-Task-API\\tutorials\\todoapi\\TodoApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Documents\\program repo\\Mini-Task-API\\tutorials\\TodoApi\\TodoApi.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Documents\\program repo\\Mini-Task-API\\tutorials\\todoapi\\TodoApi.csproj",
         "projectName": "TodoApi",
-        "projectPath": "C:\\Users\\User\\Documents\\program repo\\Mini-Task-API\\tutorials\\TodoApi\\TodoApi.csproj",
+        "projectPath": "C:\\Users\\User\\Documents\\program repo\\Mini-Task-API\\tutorials\\todoapi\\TodoApi.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Documents\\program repo\\Mini-Task-API\\tutorials\\TodoApi\\obj\\",
+        "outputPath": "C:\\Users\\User\\Documents\\program repo\\Mini-Task-API\\tutorials\\todoapi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
